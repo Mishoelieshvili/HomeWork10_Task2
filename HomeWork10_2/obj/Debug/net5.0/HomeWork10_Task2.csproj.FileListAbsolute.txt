@@ -1,0 +1,16 @@
+C:\Users\elies\source\repos\HomeWork10_2\HomeWork10_2\bin\Debug\net5.0\HomeWork10_Task2.exe
+C:\Users\elies\source\repos\HomeWork10_2\HomeWork10_2\bin\Debug\net5.0\HomeWork10_Task2.deps.json
+C:\Users\elies\source\repos\HomeWork10_2\HomeWork10_2\bin\Debug\net5.0\HomeWork10_Task2.runtimeconfig.json
+C:\Users\elies\source\repos\HomeWork10_2\HomeWork10_2\bin\Debug\net5.0\HomeWork10_Task2.runtimeconfig.dev.json
+C:\Users\elies\source\repos\HomeWork10_2\HomeWork10_2\bin\Debug\net5.0\HomeWork10_Task2.dll
+C:\Users\elies\source\repos\HomeWork10_2\HomeWork10_2\bin\Debug\net5.0\HomeWork10_Task2.pdb
+C:\Users\elies\source\repos\HomeWork10_2\HomeWork10_2\obj\Debug\net5.0\HomeWork10_Task2.csproj.AssemblyReference.cache
+C:\Users\elies\source\repos\HomeWork10_2\HomeWork10_2\obj\Debug\net5.0\HomeWork10_Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elies\source\repos\HomeWork10_2\HomeWork10_2\obj\Debug\net5.0\HomeWork10_Task2.AssemblyInfoInputs.cache
+C:\Users\elies\source\repos\HomeWork10_2\HomeWork10_2\obj\Debug\net5.0\HomeWork10_Task2.AssemblyInfo.cs
+C:\Users\elies\source\repos\HomeWork10_2\HomeWork10_2\obj\Debug\net5.0\HomeWork10_Task2.csproj.CoreCompileInputs.cache
+C:\Users\elies\source\repos\HomeWork10_2\HomeWork10_2\obj\Debug\net5.0\HomeWork10_Task2.dll
+C:\Users\elies\source\repos\HomeWork10_2\HomeWork10_2\obj\Debug\net5.0\refint\HomeWork10_Task2.dll
+C:\Users\elies\source\repos\HomeWork10_2\HomeWork10_2\obj\Debug\net5.0\HomeWork10_Task2.pdb
+C:\Users\elies\source\repos\HomeWork10_2\HomeWork10_2\obj\Debug\net5.0\HomeWork10_Task2.genruntimeconfig.cache
+C:\Users\elies\source\repos\HomeWork10_2\HomeWork10_2\obj\Debug\net5.0\ref\HomeWork10_Task2.dll
